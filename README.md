@@ -1,2 +1,2 @@
 VIew of Solar System
-<img src ="solar-syetem">
+<img src="solar-system.png" alt="">
